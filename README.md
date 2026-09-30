@@ -9,7 +9,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Emoji Combiner</h3>
+  <h3 align="center">Emoji Tools</h3>
   <p align="center">
     A Python program for working with emojis.
     <br />
@@ -45,7 +45,7 @@
 </details>
 
 ## About The Project
-Emoji Combiner is a Python program that provides three different emoji tools in one program.
+Emoji Tools is a Python program that provides three different emoji tools in one program.
 
 ### Features
 * 🔤 **Emoji → Text** — Convert emojis into their text descriptions.
